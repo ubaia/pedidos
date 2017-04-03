@@ -1,0 +1,70 @@
+Produto,Preço,Sinônimos
+Abacate,4.00
+Abacaxi,7.00
+Abobora japonesa,4.30
+Abobrinha,3.60,Abóbora Menina
+Açafrão,6.00
+Acelga,3.50
+Acerola (pacote),3.50
+Agrião,3.50
+Alface Americana,2.80
+Alfaces diversas,2.50,Alface crespa
+Alho (100 g),4.50
+Alho-poró,3.50,Alho poró
+AZEITE DE OLIVA,40.00
+Almeirão,2.50
+Banana,5.00,Banana prata|Banana verde
+Batata Baroa (500g),8.00
+Batata doce,6.00
+Batata inglesa,7.00
+Beringela,3.00
+Beterraba,4.50
+Brócolis japonês,8.00
+Brócolis ramoso,4.00
+Cebola (1 kg),7.00
+Cebola roxa,8.00
+Cebolinha,2.50
+Cenoura com folha,4.50,Cenoura
+Chuchu,2.50
+Coentro,2.50
+Couve,2.80
+Couve-flor,8.00
+Ervilha torta,3.50
+Espinafre,3.00
+Gengibre (100),2.50
+Hortelã,2.50
+Inhame,7.00
+Jabuticaba (pacote),4.00
+Jiló (pacote),3.00
+Laranja (kg),4.50
+Limão,3.00,Limão tahiti
+Maça,15.00
+Mamão Papaya,5.50,Mamão
+Manga,4.00
+Mandioca,5.00
+Manjericão,2.50
+Maracujá,6.00
+Mexirica,4.50
+Milho,5.00
+Morango,5.00
+Mostarda,2.50
+Nabo,4.00
+Ovo Orgânico,10.00,Ovo de Galinha
+Pepino caipira,3.50
+Pepino japonês,3.50
+Pimentão (500g),7.50
+Piqui,5.00
+Pimenta,2.50
+Pitanga,3.50
+Quiabo,3.50
+Rabanete,3.00
+Repolho,4.00
+Repolho roxo,4.50
+Rúcula,2.80
+Salsa,2.50
+Salsão,3.00
+Salvia,2.50
+SUCO DE UVA,
+Tomate,9.00
+Tomate cereja,4.50,Tomatinho Cereja|Tomatinho
+Vagem (pacote),3.80
